@@ -1,0 +1,163 @@
+body
+{
+    background-color: #DFDBE0;
+}
+.header
+{
+    margin-top: 2%;
+    box-shadow: 1px 2px 3px rgb(200, 196, 196);
+    background-color: gray;
+
+}
+.header a
+{
+    font-weight: bold;
+    color: green!important;
+}
+.header a:hover
+{
+  color: black!important;
+ 
+}
+.carosel
+{
+    margin-top: 8%;
+    
+   height: 500px;
+   width: 1100px;
+   background-color: rgb(99, 95, 121);
+   margin-left: 21%;
+   padding-top: 20px;
+   border-radius: 30px;
+   box-shadow: 2px 2px 8px gray;
+  
+}
+.details 
+{
+  margin-top: 17%;
+  margin-left: 3%;
+  color: white;
+}
+#price
+{
+  font-size: 30px; 
+  font-weight: bold;
+  color:lightcoral;
+}
+.product
+{
+    margin-top: 5%;
+   margin-left: 10%;
+   
+}
+.Watch
+{
+    background-color:  #ffa500;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+   height: 130px;
+    
+}
+.Bag
+{
+    background-color:#da70d6;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+   
+   
+}
+.Shoues
+{
+    background-color: #0000ff;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+  
+   
+}
+.height
+{
+    width: 1140px;
+    
+}
+.shoes
+{
+    display: flex;
+    width: 1140px;
+    margin-left: 20%;
+}
+.shoe-1
+{
+    margin-right: 1%;
+    box-shadow: 5px 5px 10px gray;
+}
+.shoe-2
+{
+    margin-right: 1%;
+    box-shadow: 5px 5px 10px gray;
+}
+.shoe-3
+{
+    margin-right: 1%;
+    box-shadow: 5px 5px 10px gray;
+}
+.bag-1
+{
+    height: 610px;
+    box-shadow: 5px 5px 10px gray;
+    margin-right: 1%;
+}
+.bag-2
+{
+    height: 610px;
+    box-shadow: 5px 5px 10px gray;
+    margin-right: 1%;
+}
+.bag-3
+{
+    height: 610px;
+    box-shadow: 5px 5px 10px gray;
+    margin-right: 1%;
+}
+.section_item
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(214, 177, 170);
+    width: 1140px;
+    height: 300px;
+    margin-left: 20%;
+    border-radius: 12px;
+    box-shadow: 1px 1px 4px gray;
+}
+.item
+{
+    display: flex;
+   
+
+}
+.item1
+{
+    margin-left: 36%;
+    margin-top: 7%;
+}
+footer
+{
+    margin-top: 5%;
+    margin-bottom: 1%;
+    
+}
+footer p
+{
+    text-align: center;
+}
+
+
